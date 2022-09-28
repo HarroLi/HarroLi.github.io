@@ -89,7 +89,7 @@ experiences:
     info:
       - role: Professor
         time: 2031.01 - Present
-        company: Startup Hubs, San Francisco
+        company: Ocean University of China, Tsingtao, China
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,7 +104,7 @@ experiences:
             - Bullet point
       - role: Senior Software Engineer
         time: 2029.01 - 2030.12
-        company: Google, London
+        company: Ocean University of China, Tsingtao, China
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -115,7 +115,7 @@ experiences:
             - Bullet point
       - role: Post-Doctoral
         time: 2026.09 - 2028.12
-        company: Amazon, London
+        company: Ocean University of China, Tsingtao, China
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -177,23 +177,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
+        level: 90%
+
+      - name: Offive
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Fortran
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: MATLAB
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 85%
+
+      - name: Adobe series software
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
