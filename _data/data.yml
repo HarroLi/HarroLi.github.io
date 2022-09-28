@@ -66,14 +66,8 @@ education:
         university: Ocean University of China
         time: 2021.09 - 2026.06
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Atmospheric Science
+          study best.
+      - degree: B.S. in Atmospheric Science
         university: Ocean University of China
         time: 2017.09 - 2021.06
         details: |
@@ -91,17 +85,7 @@ experiences:
         time: 2031.01 - Present
         company: Ocean University of China, Tsingtao, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          good
       - role: Senior Software Engineer
         time: 2029.01 - 2030.12
         company: Ocean University of China, Tsingtao, China
