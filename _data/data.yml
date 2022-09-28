@@ -17,16 +17,16 @@ sidebar:
     timezone: Beijing Time
     citizenship:
     website: harroli.github.io #do not add http://
-    linkedin: None
-    xing: None
+    #linkedin: None
+    #xing: None
     github: HarroLi
-    telegram: None # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #telegram: None # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
     twitter: '@President_LiHao'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -86,7 +86,7 @@ experiences:
         company: Ocean University of China, Tsingtao, China
         details: |
           good
-      - role: Senior Software Engineer
+      - role: Associate Professor
         time: 2029.01 - 2030.12
         company: Ocean University of China, Tsingtao, China
         details: |
